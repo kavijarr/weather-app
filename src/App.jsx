@@ -8,7 +8,7 @@ import WeatherCard from './components/WeatherCard'
 
 function App() {
   return (
-    <div>
+    <div className='mt-5'>
       <WeatherCard></WeatherCard>
     </div>
   )
